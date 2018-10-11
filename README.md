@@ -21,4 +21,7 @@ Bleep bloop, please help Issue Bot 9000 solve all HTML validation errors using t
 
 [W3C HTML Validator - Validate Direct Input](http://validator.w3.org/#validate_by_input)
 
+## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-html-issue-bot-9000/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-html-issue-bot-9000/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG HTML Issue Bot 9000</p>
